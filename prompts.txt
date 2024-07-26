@@ -1,4 +1,4 @@
-promtp1:
+prompt1:
 in the attached file we have tags with aliases. I want you to generate ten additional aliases per tag and save it in a csv again
 
 prompt2:
