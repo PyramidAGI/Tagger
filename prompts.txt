@@ -1,0 +1,5 @@
+promtp1:
+in the attached file we have tags with aliases. I want you to generate ten additional aliases per tag and save it in a csv again
+
+prompt2:
+the attached file is a list of records. each record has a set of english words. I want a python program that scores the occurrence of the sets in an input sentence. print the first column (=tag) of the record with the highest score
